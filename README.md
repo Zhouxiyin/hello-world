@@ -1,3 +1,3 @@
 # hello-world
 a new programmer's first repository
-print('hello wolrd')
+`print('hello wolrd')`
